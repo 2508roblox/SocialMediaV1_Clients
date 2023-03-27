@@ -1,0 +1,18 @@
+.TrendCard {
+    background-color: white;
+    border-radius: 1rem;
+    z-index: 3;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+h3 {
+    font-weight: 500;
+    font-size: 1rem;
+}
+p {
+    font-weight: 100;
+    font-size: .8rem;
+
+}

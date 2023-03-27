@@ -1,0 +1,33 @@
+.navIcons {
+    display        : flex;
+    justify-content: space-between;
+    align-items    : center;
+}
+
+.navIcons img {
+    width     : 30px;
+    height    : 30px;
+    object-fit: cover;
+}
+
+svg {
+    width : 40px;
+    height: 40px;
+}
+
+.RightSide {
+    display       : flex;
+    flex-direction: column;
+    gap           : 2rem;
+}
+
+button {
+    background   : var(--buttonBg);
+    padding      : .6rem 1rem;
+    border-radius: .5rem;
+    color        : white;
+    font-size    : .9rem;
+    margin       : 0 auto;
+    border       : none;
+    width        : 40%;
+}

@@ -1,0 +1,59 @@
+.ProfileFollowers {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: .5rem;
+    /* overflow: scroll; */
+    /* height: 300px; */
+    
+    
+}
+.flUsers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+.userInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .3rem;
+
+}
+.userInfo img {
+
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+.followerButton {
+    background: var(--buttonBg);
+    padding: .3rem .5rem;
+    border-radius: .3rem;
+    color: white;
+    font-size: .9rem;
+}
+.userName h3 {
+    font-weight: 500;
+    font-size: 1rem;
+}
+.userName p {
+    font-size: .8rem;
+    opacity: .6;
+}
+.user-ct {
+    overflow-y: scroll;
+    height: 170px;
+}
+.user-ct a {
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    font-weight: normal;
+}
+.userInfo img {
+    object-fit: cover;
+}

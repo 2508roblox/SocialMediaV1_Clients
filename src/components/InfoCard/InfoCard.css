@@ -1,0 +1,29 @@
+.InfoCard {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border-radius: 1rem;
+    justify-content: space-between;
+    height: 20rem;
+}
+h1 {
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.infoContent {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.editProfile {
+    width: 100%;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: auto auto;
+
+}
+.editProfile input{
+    width: 100%;
+}

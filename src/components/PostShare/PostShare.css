@@ -1,0 +1,55 @@
+.PostShare {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+    gap: 1rem;
+}
+.PostShare img:first-child{
+    width: 40px;
+    border-radius: 50%;
+    height: 40px;
+}
+.postInput {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+
+
+}
+.postInput input {
+    background-color: var(--inputColor);
+    border: none;
+    padding: .8rem;
+    border-radius: .5rem;
+    width: 100%;
+}
+.postInputMore {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    padding: 1rem;
+    justify-content: space-between;
+    
+    align-items: center;
+}
+.postButton button {
+    padding: .5rem 1rem;
+    border: none;
+    background: var(--buttonBg);
+    border-radius: .5rem;
+    color:  white;
+}
+.inputType {
+    align-items: center;
+    display: flex;
+    gap: 1rem;
+}
+.inputType svg {
+    font-size:1.6rem;
+    color: var(--orange);
+}

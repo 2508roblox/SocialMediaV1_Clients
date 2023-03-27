@@ -1,0 +1,27 @@
+.Post {
+    background: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.Post  img {
+
+border-radius: 1rem;
+
+}
+.iconReact  img {
+ width: 40px;
+ object-fit: contain;
+
+}
+.Post {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.iconReact svg {
+    font-size: 1.6rem;
+}
+.iconReact{
+    display: flex;
+    gap: 1rem;
+}
