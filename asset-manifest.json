@@ -1,19 +1,29 @@
 {
   "files": {
-    "main.css": "/SocialMedia_N_APP/static/css/main.cfdbc209.css",
-    "main.js": "/SocialMedia_N_APP/static/js/main.47f6de5d.js",
+    "main.css": "/SocialMedia_N_APP/static/css/main.325021ba.css",
+    "main.js": "/SocialMedia_N_APP/static/js/main.412fa9da.js",
     "static/media/postpic1.jpg": "/SocialMedia_N_APP/static/media/postpic1.75fe273688edbbb1d14a.jpg",
-    "static/media/defaultAvatar.jpg": "/SocialMedia_N_APP/static/media/defaultAvatar.749667cc5449de2b9786.jpg",
+    "static/media/care.png": "/SocialMedia_N_APP/static/media/care.543c7bb52a062d01a740.png",
+    "static/media/defaultAvatar.jpg": "/SocialMedia_N_APP/static/media/defaultAvatar.b8c1cd70d4da80019a5f.jpg",
+    "static/media/cover.jpg": "/SocialMedia_N_APP/static/media/cover.40d65cf533684d971ee1.jpg",
+    "static/media/angry.png": "/SocialMedia_N_APP/static/media/angry.9c9d9011474dcb3e3b96.png",
+    "static/media/wow.png": "/SocialMedia_N_APP/static/media/wow.14bbbbe135b731029123.png",
+    "static/media/haha.png": "/SocialMedia_N_APP/static/media/haha.32ac52b596e6fa222073.png",
     "static/media/profileImg.jpg": "/SocialMedia_N_APP/static/media/profileImg.e857f45860a47d11abdd.jpg",
+    "static/media/like.png": "/SocialMedia_N_APP/static/media/like.ec3e5916c80312914909.png",
     "static/media/img1.png": "/SocialMedia_N_APP/static/media/img1.a0fca9c51749c1ee3db5.png",
     "static/media/img2.png": "/SocialMedia_N_APP/static/media/img2.f5f922c9b93eaf2c4065.png",
     "static/media/img3.png": "/SocialMedia_N_APP/static/media/img3.6b1484548ee065fd59b5.png",
+    "static/media/logo-new.png": "/SocialMedia_N_APP/static/media/logo-new.787872548503eb9dfb3d.png",
+    "static/media/heart-post.png": "/SocialMedia_N_APP/static/media/heart-post.fdbf91cee79fa783e875.png",
+    "static/media/comments.png": "/SocialMedia_N_APP/static/media/comments.7a7367f2cac0c7fb073d.png",
+    "static/media/return.png": "/SocialMedia_N_APP/static/media/return.1f948a906ae306b2d0cf.png",
     "index.html": "/SocialMedia_N_APP/index.html",
-    "main.cfdbc209.css.map": "/SocialMedia_N_APP/static/css/main.cfdbc209.css.map",
-    "main.47f6de5d.js.map": "/SocialMedia_N_APP/static/js/main.47f6de5d.js.map"
+    "main.325021ba.css.map": "/SocialMedia_N_APP/static/css/main.325021ba.css.map",
+    "main.412fa9da.js.map": "/SocialMedia_N_APP/static/js/main.412fa9da.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfdbc209.css",
-    "static/js/main.47f6de5d.js"
+    "static/css/main.325021ba.css",
+    "static/js/main.412fa9da.js"
   ]
 }
