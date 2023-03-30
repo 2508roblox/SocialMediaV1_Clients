@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SocialMedia_N_APP/static/css/main.322d521b.css",
-    "main.js": "/SocialMedia_N_APP/static/js/main.b1863b41.js",
+    "main.css": "/SocialMedia_N_APP/static/css/main.942b421a.css",
+    "main.js": "/SocialMedia_N_APP/static/js/main.7ff03259.js",
     "static/media/postpic1.jpg": "/SocialMedia_N_APP/static/media/postpic1.75fe273688edbbb1d14a.jpg",
     "static/media/care.png": "/SocialMedia_N_APP/static/media/care.543c7bb52a062d01a740.png",
     "static/media/defaultAvatar.jpg": "/SocialMedia_N_APP/static/media/defaultAvatar.b8c1cd70d4da80019a5f.jpg",
@@ -23,11 +23,11 @@
     "static/media/return.png": "/SocialMedia_N_APP/static/media/return.1f948a906ae306b2d0cf.png",
     "static/media/homeMessage.png": "/SocialMedia_N_APP/static/media/homeMessage.6aaf85b00a6b1a5094da.png",
     "index.html": "/SocialMedia_N_APP/index.html",
-    "main.322d521b.css.map": "/SocialMedia_N_APP/static/css/main.322d521b.css.map",
-    "main.b1863b41.js.map": "/SocialMedia_N_APP/static/js/main.b1863b41.js.map"
+    "main.942b421a.css.map": "/SocialMedia_N_APP/static/css/main.942b421a.css.map",
+    "main.7ff03259.js.map": "/SocialMedia_N_APP/static/js/main.7ff03259.js.map"
   },
   "entrypoints": [
-    "static/css/main.322d521b.css",
-    "static/js/main.b1863b41.js"
+    "static/css/main.942b421a.css",
+    "static/js/main.7ff03259.js"
   ]
 }
